@@ -2,7 +2,7 @@
 ![love](https://github.com/LlorasSn/LlorasSn/assets/127954343/194e8560-90b8-45b7-a25f-d24795b9b330)
 
 # 💫 About Me:
-I'm still grinding for being a mediocre
+I'm still grinding as a mediocre
 
 
 # 💻 Tech Stack:
