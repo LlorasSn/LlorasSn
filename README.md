@@ -4,10 +4,6 @@
 # 💫 About Me:
 I'm still grinding as a mediocre
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
 <img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT40v9PUnZqtnifDpXgz74XUeZO8dV8uEh2cMm4uk9RmsKd_T6JTgGpjyjDONdXOJk39po&usqp=CAU"  />
 
 ###
